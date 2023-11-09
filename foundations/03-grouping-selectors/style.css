@@ -1,0 +1,20 @@
+
+
+.firstbox
+.secondbox{
+
+    font-family: sans-serif;
+}
+
+.firstbox{
+    background-color: black;
+    color: white;
+    
+}
+
+.secondbox{
+    background-color: yellow;
+    color: #000000;
+
+}
+
