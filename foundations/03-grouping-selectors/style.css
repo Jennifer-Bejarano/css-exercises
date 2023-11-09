@@ -1,9 +1,10 @@
 
 
-.firstbox
-.secondbox{
-
-    font-family: sans-serif;
+.firstbox,
+.secondbox
+{
+    font-size: 28px;
+    font-family: helvetica, Times, sans-serif;
 }
 
 .firstbox{
